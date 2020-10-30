@@ -8,7 +8,7 @@ import 'tailwindcss/dist/tailwind.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Application />
+    <App />
   </React.StrictMode>,
   document.getElementById('root')
 );

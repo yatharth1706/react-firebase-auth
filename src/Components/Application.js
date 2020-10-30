@@ -12,7 +12,7 @@ const Application = () => {
         <ProfilePage />
       :
         <Router>
-          <SignUp path="signUp" />
+          <SignUp path="signup" />
           <SignIn path="/" />
           <PasswordReset path = "passwordReset" />
         </Router>
