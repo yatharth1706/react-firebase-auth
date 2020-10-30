@@ -18,3 +18,5 @@ const Application = () => {
         </Router>
     )
 }
+
+export default Application;
